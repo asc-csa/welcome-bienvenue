@@ -28,7 +28,7 @@ Conditions atmosphériques et météorologie
 
 Mesures Canada
 
-Plateforme de Cartographie Accessible et réutilisable
+Plateforme de cartographie accessible et réutilisable
 
 Service Canada
 
@@ -36,7 +36,7 @@ Analyse des dépenses et de la planification de la rémunération
 
 GeoCanViz
 
-Visualisateur pour la plate-forme géospatiale fédérale
+Visualisateur pour la Plateforme géospatiale fédérale
 
 Emploi et Développement social Canada
 
