@@ -1,4 +1,4 @@
-# Organisations de logiciels libres du Gouvernement du Canada sur GitHub
+# Organisations de logiciels libres du gouvernement du Canada sur GitHub
 
 Gouvernement du Canada
 
