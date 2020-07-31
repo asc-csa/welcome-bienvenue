@@ -1,6 +1,4 @@
-# Bienvenue
-
-Bienvenue!
+# Bienvenue!
 
 Bienvenue au dépôt des données ouvertes de l’Agence spatiale canadienne (ASC) où vous avez l’opportunité d’aider l’ASC dans sa mission de promouvoir l’exploitation et l’usage pacifiques de l’espace, de faire progresser la connaissance de l’espace au moyen de la science et de faire en sorte que les Canadiens tirent profit des sciences et techniques spatiales sur les plans tant social qu’économique. 
 
@@ -13,9 +11,7 @@ Vous intéressez-vous à d'autres projets du gouvernement fédéral, de gouverne
 Consulter la Politique sur les services et le numérique du gouvernement du Canada (https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32603)
 
 
-# Welcome
-
-Welcome!
+# Welcome!
 
 Welcome to the Canadian Space Agency (CSA) open-source repository, where you have an opportunity to help the CSA in its mandate to promote the peaceful use and development of space, to advance knowledge of space through science and to ensure that space science and technology provide social and economic benefits for Canada. 
 
